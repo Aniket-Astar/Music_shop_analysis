@@ -1,0 +1,10 @@
+-- Easy --
+-- 1) Who is the senior most emp based on job title?
+
+-- 2) which countried have most invoices?
+
+-- 3) what are top 3 invoices values of tot inv?
+
+-- 4) Which city has the best customers? We would like to throw a promotional Music Festival in the city we made the most money. Write a
+
+-- 5) Who is the best customer? The customer who has spent the most money will be declared the best customer. Write a query that returns
